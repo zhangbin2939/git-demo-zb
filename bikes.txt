@@ -1,3 +1,8 @@
 bike1
 bike3
+<<<<<<< HEAD
 bike6666
+=======
+bike44444
+bike5555
+>>>>>>> refs/remotes/origin/main
